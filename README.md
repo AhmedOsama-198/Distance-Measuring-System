@@ -1,2 +1,2 @@
 # simple-car-parking-sensor
-this repository is a project of a parking sensor that helps the driver to avoid collision while parking using an Ultrasonic sensor and an LCD
+Designed a system that measures distance and displays it on an LCD using the ATmega32 microcontroller. Implemented drivers for GPIO, ICU, Ultrasonic Sensor, and LCD.
